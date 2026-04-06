@@ -105,12 +105,21 @@ Arduino ile uzaktan kumandalı (RC) arabalar oluşturmak için bir depo. Ayrıca
 🔔 Aktif Buzzer (Ses Devresi)
 
     Pozitif (+ / Uzun Bacak): Arduino Pin 13
-![img_rc_6](https://github.com/user-attachments/assets/a4b40409-e2c3-4e19-9742-f4f6217b563c)
-![img_rc_5](https://github.com/user-attachments/assets/eddd717d-ec4e-422e-aa51-e3ce6997fb0e)
-![img_rc_4](https://github.com/user-attachments/assets/ad75d75c-7962-4f18-b4de-7996be77c3c0)
-![img_rc_3](https://github.com/user-attachments/assets/9e7bfbf8-24fa-4bb6-9229-92aed2b752b6)
-![img_rc_2](https://github.com/user-attachments/assets/c88d9e72-ba87-4c0d-a2f0-01589c42243f)
-![img_rc_1](https://github.com/user-attachments/assets/3faa3251-e4d9-4c50-8494-e48d536d8791)
-
     Negatif (- / Kısa Bacak): -12V (Ortak GND)
+![img_rc_6](https://github.com/user-attachments/assets/a4b40409-e2c3-4e19-9742-f4f6217b563c)
+---
+![img_rc_app](https://github.com/user-attachments/assets/861ae87d-138c-458f-b998-a34278902f20)
+---
+![img_rc_5](https://github.com/user-attachments/assets/eddd717d-ec4e-422e-aa51-e3ce6997fb0e)
+---
+![img_rc_4](https://github.com/user-attachments/assets/ad75d75c-7962-4f18-b4de-7996be77c3c0)
+---
+![img_rc_3](https://github.com/user-attachments/assets/9e7bfbf8-24fa-4bb6-9229-92aed2b752b6)
+---
+![img_rc_2](https://github.com/user-attachments/assets/c88d9e72-ba87-4c0d-a2f0-01589c42243f)
+---
+![img_rc_1](https://github.com/user-attachments/assets/3faa3251-e4d9-4c50-8494-e48d536d8791)
+---
+
+
 
