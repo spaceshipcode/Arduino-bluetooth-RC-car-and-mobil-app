@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BT Car Controller</string>
+    <string name="connect">Bağlan</string>
+    <string name="disconnect">Bağlantıyı Kes</string>
+    <string name="connecting">Bağlanıyor…</string>
+    <string name="connected">Bağlandı</string>
+    <string name="disconnected">Bağlı Değil</string>
+    <string name="select_device">Cihaz Seçin</string>
+    <string name="no_paired_devices">Eşleştirilmiş cihaz yok.\nAyarlardan HC-05 ile eşleştirin.</string>
+    <string name="horn">KORNA</string>
+    <string name="bt_not_available">Bu cihazda Bluetooth bulunmuyor</string>
+    <string name="bt_not_enabled">Bluetooth açık değil</string>
+    <string name="permission_required">Bluetooth izni gerekli</string>
+    <string name="connection_failed">Bağlantı başarısız</string>
+    <string name="connection_lost">Bağlantı kesildi</string>
+    <string name="gamepad_connected">🎮 Gamepad Bağlı</string>
+    <string name="gamepad_disconnected">Gamepad Bağlı Değil</string>
+    <string name="speed">Hız</string>
+    <string name="turn">Dönüş</string>
+</resources>

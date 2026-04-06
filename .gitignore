@@ -1,0 +1,41 @@
+# --- Android Studio & Gradle ---
+.gradle/
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+/captures/
+*.apk
+*.jks
+local.properties
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.externalNativeBuild/
+.cxx/
+*.keystore
+!debug.keystore
+
+# --- Arduino ---
+*.pyc
+*.elf
+*.bin
+*.hex
+*.o
+*.d
+arduino_build_*/
+arduino_cache_*/
+
+# --- Devre Şemaları & Genel (EDA tools) ---
+# Eğer Fritzing, Altium veya Proteus gibi araçlar kullanıyorsan yedekleme dosyaları:
+*.bak
+*.s#*
+*.l#*
+*.b#*
+*.dsn-
+*.pdsbak
+
+# --- İşletim Sistemi Dosyaları ---
+.DS_Store
+Thumbs.db

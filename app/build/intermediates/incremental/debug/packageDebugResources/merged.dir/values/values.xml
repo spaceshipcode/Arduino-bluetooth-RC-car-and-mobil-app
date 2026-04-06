@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_blue">#FF58A6FF</color>
+    <color name="accent_blue_dark">#FF1F6FEB</color>
+    <color name="accent_green">#FF3FB950</color>
+    <color name="accent_orange">#FFD29922</color>
+    <color name="accent_red">#FFF85149</color>
+    <color name="bg_card">#FF21262D</color>
+    <color name="bg_card_elevated">#FF30363D</color>
+    <color name="bg_primary">#FF0D1117</color>
+    <color name="bg_secondary">#FF161B22</color>
+    <color name="horn_button">#FFD29922</color>
+    <color name="horn_button_pressed">#FFF0B440</color>
+    <color name="joystick_base">#FF30363D</color>
+    <color name="joystick_thumb">#FF58A6FF</color>
+    <color name="joystick_thumb_pressed">#FF79C0FF</color>
+    <color name="text_muted">#FF484F58</color>
+    <color name="text_primary">#FFF0F6FC</color>
+    <color name="text_secondary">#FF8B949E</color>
+    <string name="app_name">BT Car Controller</string>
+    <string name="bt_not_available">Bu cihazda Bluetooth bulunmuyor</string>
+    <string name="bt_not_enabled">Bluetooth açık değil</string>
+    <string name="connect">Bağlan</string>
+    <string name="connected">Bağlandı</string>
+    <string name="connecting">Bağlanıyor…</string>
+    <string name="connection_failed">Bağlantı başarısız</string>
+    <string name="connection_lost">Bağlantı kesildi</string>
+    <string name="disconnect">Bağlantıyı Kes</string>
+    <string name="disconnected">Bağlı Değil</string>
+    <string name="gamepad_connected">🎮 Gamepad Bağlı</string>
+    <string name="gamepad_disconnected">Gamepad Bağlı Değil</string>
+    <string name="horn">KORNA</string>
+    <string name="no_paired_devices">Eşleştirilmiş cihaz yok.\nAyarlardan HC-05 ile eşleştirin.</string>
+    <string name="permission_required">Bluetooth izni gerekli</string>
+    <string name="select_device">Cihaz Seçin</string>
+    <string name="speed">Hız</string>
+    <string name="turn">Dönüş</string>
+    <style name="Theme.BTCarController" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/accent_blue</item>
+        <item name="colorPrimaryDark">@color/accent_blue_dark</item>
+        <item name="colorAccent">@color/accent_blue</item>
+        <item name="android:windowBackground">@color/bg_primary</item>
+        <item name="android:statusBarColor">@color/bg_primary</item>
+        <item name="android:navigationBarColor">@color/bg_primary</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>

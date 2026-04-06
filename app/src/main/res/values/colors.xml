@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_primary">#FF0D1117</color>
+    <color name="bg_secondary">#FF161B22</color>
+    <color name="bg_card">#FF21262D</color>
+    <color name="bg_card_elevated">#FF30363D</color>
+    <color name="accent_blue">#FF58A6FF</color>
+    <color name="accent_blue_dark">#FF1F6FEB</color>
+    <color name="accent_green">#FF3FB950</color>
+    <color name="accent_red">#FFF85149</color>
+    <color name="accent_orange">#FFD29922</color>
+    <color name="text_primary">#FFF0F6FC</color>
+    <color name="text_secondary">#FF8B949E</color>
+    <color name="text_muted">#FF484F58</color>
+    <color name="joystick_base">#FF30363D</color>
+    <color name="joystick_thumb">#FF58A6FF</color>
+    <color name="joystick_thumb_pressed">#FF79C0FF</color>
+    <color name="horn_button">#FFD29922</color>
+    <color name="horn_button_pressed">#FFF0B440</color>
+</resources>
